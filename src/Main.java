@@ -8,6 +8,6 @@ public class Main {
         double fallCost = 6000;
         double winterCost = 12000;
         double annualCost = springCost + summerCost + fallCost + winterCost;
-        System.out.println("The cost for Fall " + fallCost + " and the cost for Spring" + springCost + " and the cost for Winter" + winterCost + " and the cost for Summer" + summerCost + " is " + annualCost);
+        System.out.println("The cost for Fall is " + fallCost + " and the cost for Spring is " + springCost + " and the cost for Winter is " + winterCost + " and the cost for Summer is " + summerCost + " is " + annualCost);
     }
 }
